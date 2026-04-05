@@ -14,7 +14,7 @@
 <p>Desarrollo de Software VII</p>
 
 <h3>Descripción</h3>
-<p>Resolución de problemas técnicos utilizando el lenguaje de programación PHP y estructuras de control.</p>
+<p>Resolución de problemas técnicos utilizando el lenguaje de programación PHP </p>
 
 <hr>
 
@@ -30,4 +30,3 @@
 
 <hr>
 
-<i>Facultad de Ingeniería de Sistemas Computacionales.</i>
