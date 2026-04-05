@@ -1,62 +1,33 @@
-\*\*\*
+<hr>
 
+<h1>Laboratorio #1 - PHP</h1>
 
+<hr>
 
-\# Práctica #1 - PHP
+<h3>Estudiante</h3>
+<p>Luis De León</p>
 
+<h3>Grupo</h3>
+<p>1GS133</p>
 
+<h3>Materia</h3>
+<p>Desarrollo de Software VII</p>
 
-\*\*\*
+<h3>Descripción</h3>
+<p>Resolución de problemas técnicos utilizando el lenguaje de programación PHP y estructuras de control.</p>
 
+<hr>
 
+<h3>Contenido del Laboratorio 1</h3>
+<ul>
+    <li>Lab 1</li>
+    <li>Lab 2</li>
+    <li>Lab 3</li>
+    <li>Lab 4</li>
+    <li>Lab 5 (HTML y PHP)</li>
+    <li>Lab 6</li>
+</ul>
 
-\*\*Estudiante\*\*
+<hr>
 
-Luis De León
-
-
-
-\*\*Grupo\*\*
-
-1GS133
-
-
-
-\*\*Materia\*\*
-
-Desarrollo de Software VII
-
-
-
-\*\*Descripción\*\*
-
-Resolución de problemas técnicos utilizando el lenguaje de programación PHP.
-
-
-
-\*\*\*
-
-
-
-\*\*Contenido del Laboratorio 1\*\*
-
-
-
-\* \*\*Lab 1\*\*
-
-\* \*\*Lab 2\*\*
-
-\* \*\*Lab 3\*\*
-
-\* \*\*Lab 4\*\*
-
-\* \*\*Lab 5 (HTML y PHP)\*\*
-
-\* \*\*Lab 6\*\*
-
-
-
-\*\*\*
-
-
-
+<i>Facultad de Ingeniería de Sistemas Computacionales.</i>
